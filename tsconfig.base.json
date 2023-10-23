@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@org2/shared": ["shared/src/index.ts"]
+      "@bartemeus/mylib": ["shared/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
