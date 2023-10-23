@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { SharedModule } from 'asdggsdlib';
 
 @Component({
   selector: 'org2-root',
