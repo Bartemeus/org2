@@ -1,6 +1,6 @@
 {
-  "name": "@bartemeus/mylib",
-  "version": "0.0.1",
+  "name": "asdggsdlib",
+  "version": "0.0.12",
   "peerDependencies": {
     "@angular/common": "^16.2.0",
     "@angular/core": "^16.2.0"
@@ -8,5 +8,7 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "author": "Ner",
+  "license": "ISC"
 }
