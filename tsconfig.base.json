@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@bartemeus/mylib": ["shared/src/index.ts"]
+      "@bartemeus/mylib": ["shared/src/index.ts"],
+      "asd-lib": ["shared/asd/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
